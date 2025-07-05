@@ -10,10 +10,10 @@
 
 ***
 ## Connect with me
-[![Linktree - All](https://img.shields.io/badge/Linktree_All-%2316C60C?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/calebramdath)
-[![Linktree - Art](https://img.shields.io/badge/Linktree_Art-%2316C60C?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/trassworks)
-[![YouTube: Gaming](https://img.shields.io/badge/Gaming_Channel-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DahRealTsarsmonaut)
-[![YouTube: Programming](https://img.shields.io/badge/Programming_Channel-%23000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Afternight-Studios)
+[![Linktree All](https://img.shields.io/badge/Linktree_All-16C60C?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/trassworks)
+[![Linktree Art](https://img.shields.io/badge/Linktree_Art-16C60C?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/calebramdath)
+[![Gaming Channel](https://img.shields.io/badge/Gaming_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DahRealTsarsmonaut)
+[![Programming Channel](https://img.shields.io/badge/Programming_Channel-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Afternight-Studios)
 
 ***
 
