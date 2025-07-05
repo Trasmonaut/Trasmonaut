@@ -7,6 +7,14 @@
 💻 I enjoy building cool stuff for the web – from tools to aesthetic pages.  
 🎮 In my spare time, I create gaming content and tinker with creative digital projects.
 
+***
+## 🔭 Currently Exploring
+
+- 📷 Manual camera photography for Automotive and Sports 
+- 🌐 Web development through Javascript and Render
+- 🎮 GameDev through Java, Unreal Engine 5 and Godot
+- 🎨 Art thourgh Krita, focusing on Anime art, 2d Pixel Art, 3d Art through Blender
+- 📐 Graphic Design though Canva
 
 ***
 ## 🔗 Connect with Me
