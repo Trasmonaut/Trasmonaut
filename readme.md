@@ -2,7 +2,7 @@
 
 # Hi, My name is Caleb Ramdath - Trasmonaut
 ***
-🎓 I'm a 2024 IT graduate from the University of the West Indies -St Augustine.  
+🎓 I'm a 2025 IT graduate from the University of the West Indies -St Augustine.  
 📸 I'm also an amateur photographer, digital artist, and graphic designer.  
 💻 I enjoy building cool stuff for the web – from tools to aesthetic pages.  
 🎮 In my spare time, I create gaming content and tinker with creative digital projects.
