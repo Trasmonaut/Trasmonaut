@@ -11,7 +11,7 @@
 ## 🔭 Currently Exploring
 
 - 📷 Manual camera photography for Automotive and Sports 
-- 🌐 Web development through Javascript and Render
+- 🌐 Web development through GSAP and React
 - 🎮 GameDev through Java, Unreal Engine 5 and Godot
 - 🎨 Art thourgh Krita, focusing on Anime art, 2d Pixel Art, 3d Art through Blender
 - 📐 Graphic Design though Canva
